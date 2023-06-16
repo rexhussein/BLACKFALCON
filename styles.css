@@ -3,7 +3,7 @@ margin: 0px;
 padding: 0px;}
 
 body{
-    background-color: grey;
+    background-color: #ea6f17; ;
     width: 100%;
 
 
@@ -16,7 +16,7 @@ padding-bottom:-40px
 }
 .main-content{
 padding-top: 250px;
-background-image: url("images/home.png");
+background-image: url("images/Home.png");
 width: 110%;
 height: -500px;
 
